@@ -3,7 +3,7 @@
 
 ## Descrição
 
-A CarShop é uma loja de carros online que oferece uma experiência incrível para os usuários navegarem em nosso catálogo de veículos. Nós tornamos o processo de compra de carros mais fácil e rápido!
+A Ebac Motors é um projeto feito junto com a Ebac, onde simulamos um site de venda de veículos.
 
 ## Recursos
 
